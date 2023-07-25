@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/araddon/dateparse"
+	"github.com/ovadbar/dateparse"
 	"github.com/scylladb/termtables"
 )
 
